@@ -1,0 +1,7 @@
+{
+  "selected_threshold": null,
+  "cost_bps": 10,
+  "minimum_validation_trades": 54,
+  "selection_data": "validation only",
+  "selection_rule": "Highest positive validation return among qualifying rules; otherwise cash."
+}

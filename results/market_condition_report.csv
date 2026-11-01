@@ -1,0 +1,9 @@
+regime,strategy,days,trades,coverage,net_trade_win_rate,mean_net_daily_return
+calm,Selected rule,399,0,0.0,,0.0
+calm,Model at 50% threshold,399,92,0.23057644110275688,0.45652173913043476,-0.00020646929314090156
+calm,Always long intraday,399,399,1.0,0.43609022556390975,-0.0008169991607516561
+calm,Cash,399,0,0.0,,0.0
+volatile,Selected rule,139,0,0.0,,0.0
+volatile,Model at 50% threshold,139,61,0.43884892086330934,0.36065573770491804,-0.0009414218447562047
+volatile,Always long intraday,139,139,1.0,0.3381294964028777,-0.0021587987388515927
+volatile,Cash,139,0,0.0,,0.0

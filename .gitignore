@@ -1,0 +1,20 @@
+# Local Python environment and temporary files
+.venv/
+__pycache__/
+*.pyc
+
+# Local credentials
+.env
+.env.*
+
+# Downloaded market data and backup results
+data/
+results_v1/
+
+# Generated model and database files
+*.joblib
+*.pt
+*.sqlite
+
+# Empty duplicate script
+results/train_neural.py

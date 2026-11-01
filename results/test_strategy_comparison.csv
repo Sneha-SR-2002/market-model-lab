@@ -1,0 +1,5 @@
+strategy,trades,coverage,total_return,max_drawdown
+selected_rule,0,0.0,0.0,0.0
+model_at_50_percent,153,0.2843866171003718,-0.19571920361763528,-0.2121183307561192
+always_long_intraday,538,1.0,-0.47191114837080694,-0.47921345501574864
+cash,0,0.0,0.0,0.0

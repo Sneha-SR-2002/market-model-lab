@@ -1,0 +1,20 @@
+{
+  "features": [
+    "return_1d",
+    "return_5d",
+    "ma_ratio_20",
+    "volatility_10",
+    "range_ratio"
+  ],
+  "hidden_layers": [
+    16,
+    8
+  ],
+  "epochs": 100,
+  "learning_rate": 0.001,
+  "random_seed": 42,
+  "train_end": 1612,
+  "validation_end": 2150,
+  "torch_version": "2.15.0+cpu",
+  "status": "Exploratory extension; original test previously viewed"
+}

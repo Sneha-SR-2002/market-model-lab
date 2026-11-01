@@ -1,0 +1,15 @@
+{
+  "features": [
+    "return_1d",
+    "return_5d",
+    "ma_ratio_20",
+    "volatility_10",
+    "range_ratio"
+  ],
+  "selected_model": "boosted_trees",
+  "train_end": 1612,
+  "validation_end": 2150,
+  "training_rows": 1611,
+  "validation_rows": 537,
+  "test_rows": 538
+}
